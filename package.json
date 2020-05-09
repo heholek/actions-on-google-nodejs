@@ -42,7 +42,7 @@
   ],
   "devDependencies": {
     "@gerrit0/typedoc": "^0.15.0",
-    "@types/sinon": "^4.3.3",
+    "@types/sinon": "^9.0.0",
     "ava": "^1.4.1",
     "concurrently": "^3.5.1",
     "http-server": "^0.12.3",
