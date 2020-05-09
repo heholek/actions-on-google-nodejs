@@ -46,7 +46,7 @@
     "ava": "^3.8.2",
     "concurrently": "^3.5.1",
     "http-server": "^0.12.3",
-    "nyc": "^14.0.0",
+    "nyc": "^15.0.1",
     "sinon": "^6.0.0",
     "tslint": "^5.9.1",
     "tslint-eslint-rules": "^5.1.0",
