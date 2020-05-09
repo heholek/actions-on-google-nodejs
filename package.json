@@ -44,7 +44,7 @@
     "@gerrit0/typedoc": "^0.15.0",
     "@types/sinon": "^9.0.0",
     "ava": "^3.8.2",
-    "concurrently": "^3.5.1",
+    "concurrently": "^5.2.0",
     "http-server": "^0.12.3",
     "nyc": "^15.0.1",
     "sinon": "^6.0.0",
