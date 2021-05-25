@@ -47,7 +47,7 @@
     "concurrently": "^6.0.0",
     "http-server": "^0.12.3",
     "nyc": "^15.0.1",
-    "sinon": "^10.0.0",
+    "sinon": "^11.0.0",
     "tslint": "^6.1.2",
     "tslint-eslint-rules": "^5.1.0",
     "typedoc-neo-theme": "^1.0.2",
