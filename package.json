@@ -60,7 +60,7 @@
     "@types/node": "^15.0.2",
     "debug": "^4.1.1",
     "google-auth-library": "^7.0.0",
-    "googleapis": "^79.0.0"
+    "googleapis": "^80.0.0"
   },
   "resolutions": {
     "@gerrit0/typedoc-default-themes": "0.6.0"
